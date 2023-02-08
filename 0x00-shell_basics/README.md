@@ -6,4 +6,5 @@
 5- This script displays user and group ids  numerically and hidden files in long format.
 6- This script makes a new directory in a directory.
 7- This script moves a file from one directory to another directory.
-8- THis script deletes a file from a directory in a directory.
+8- This script deletes a file from a directory in a directory.
+9- This script deletes a directory in another directory.
