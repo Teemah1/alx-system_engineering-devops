@@ -8,3 +8,4 @@
 7- This script moves a file from one directory to another directory.
 8- This script deletes a file from a directory in a directory.
 9- This script deletes a directory in another directory.
+10- This script changes working directory to the previous one.
