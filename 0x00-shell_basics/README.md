@@ -5,3 +5,4 @@
 4- This script displays hidden contents in long format.
 5- This script displays user and group ids  numerically and hidden files in long format.
 6- This script makes a new directory in a directory.
+7- This script moves a file from one directory to another directory.
