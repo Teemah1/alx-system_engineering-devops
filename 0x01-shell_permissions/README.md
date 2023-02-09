@@ -6,3 +6,4 @@
 5- This script adss execute permissions to the owner of a file.
 6- This script gives execute permissions to the owner, group owner and read permission to others.
 7- This script gives execute ppermission to the owner, the group owner and other users.
+8- This script gives no permission to user and group and all permissions to others.
