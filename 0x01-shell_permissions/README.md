@@ -7,3 +7,4 @@
 6- This script gives execute permissions to the owner, group owner and read permission to others.
 7- This script gives execute ppermission to the owner, the group owner and other users.
 8- This script gives no permission to user and group and all permissions to others.
+9- This script givwes all permissiona to owner, read and execute to groups andwrite and execute for other users.
