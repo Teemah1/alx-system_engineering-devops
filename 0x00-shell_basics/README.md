@@ -10,4 +10,5 @@
 9- This script deletes a directory in another directory.
 10- This script changes working directory to the previous one.
 11- This script prints files in the curent, parent of the current working directory and the boot directory.
-12- THis script prints the type of file a particular file is.
+12- This script prints the type of file a particular file is.
+13- This script creates a symbolic link.
