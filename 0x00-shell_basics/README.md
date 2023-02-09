@@ -12,3 +12,4 @@
 11- This script prints files in the curent, parent of the current working directory and the boot directory.
 12- This script prints the type of file a particular file is.
 13- This script creates a symbolic link.
+14- This copies new html files
