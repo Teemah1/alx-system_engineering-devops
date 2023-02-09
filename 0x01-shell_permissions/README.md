@@ -4,3 +4,4 @@
 3- This script changes the owner of a file.
 4- This script creates an empty file.
 5- This script adss execute permissions to the owner of a file.
+6- This script gives execute permissions to the owner, group owner and read permission to others.
