@@ -15,3 +15,4 @@
 14- This script copies new html files.
 15- This script moves files beginning with upper case character.
 16- This script deletes all files that ends with ~.
+17- This script creates directories in a directory using the full-path option.
