@@ -9,5 +9,6 @@
 8- This script gives no permission to user and group and all permissions to others.
 9- This script givwes all permissiona to owner, read and execute to groups andwrite and execute for other users.
 10- This script mirrors permissions of a file to another file.
+11- This script gives execute permissions for subdir in current dir for ower, group and others.
 12- This script makes a directory and set the mode at the same time.
 13- This script changes file ownership.
