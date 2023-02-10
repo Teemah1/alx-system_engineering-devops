@@ -12,3 +12,4 @@
 11- This script gives execute permissions for subdir in current dir for ower, group and others.
 12- This script makes a directory and set the mode at the same time.
 13- This script changes file ownership.
+14- This script changes owner and group ownership of files and directories.
