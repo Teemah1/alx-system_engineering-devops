@@ -1,2 +1,2 @@
 #!/bin/bash:wq
-printf "%x\n" $DECIMAL
+echo  ${printf %x "$DECIMAL"\n;}
