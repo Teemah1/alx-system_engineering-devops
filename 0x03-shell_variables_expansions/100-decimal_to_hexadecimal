@@ -1,2 +1,2 @@
 #!/bin/bash:wq
-printf $((10$#%0x\n)) $DECIMAL
+printf "%0x\n" $DECIMAL
