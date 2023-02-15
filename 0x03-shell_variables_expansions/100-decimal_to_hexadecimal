@@ -1,0 +1,2 @@
+#!/bin/bash:wq
+printf $((10$#%0x\n)) $DECIMAL
